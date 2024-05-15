@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DES/1.0.0": {
+        "dependencies": {
+          "Aprismatic.BigIntegerExt": "0.2.0.2"
+        },
+        "runtime": {
+          "DES.dll": {}
+        }
+      },
+      "Aprismatic.BigIntegerExt/0.2.0.2": {
+        "runtime": {
+          "lib/netstandard2.1/Aprismatic.BigIntegerExt.dll": {
+            "assemblyVersion": "0.2.0.2",
+            "fileVersion": "0.2.0.2"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aprismatic.BigIntegerExt/0.2.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wbpwSG65YfkFNuCNd711khYEwKQ0/aOf0TwrMija+pIUiTJVVf3fbqte+QdDV+1I3A4ggCcVMTdizJPTwXHPKg==",
+      "path": "aprismatic.bigintegerext/0.2.0.2",
+      "hashPath": "aprismatic.bigintegerext.0.2.0.2.nupkg.sha512"
+    }
+  }
+}

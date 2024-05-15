@@ -1,0 +1,159 @@
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\DES.Form1.resources
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\DES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfo.cs
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\DES.exe
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\DES.deps.json
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\DES.runtimeconfig.json
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\DES.dll
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net7.0-windows\DES.pdb
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\DES.dll
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\refint\DES.dll
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\DES.pdb
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\DES.genruntimeconfig.cache
+C:\Users\pc\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net7.0-windows\ref\DES.dll
+C:\Users\pc\source\repos\DES\WinFormsApp1\bin\Debug\net7.0-windows\DES.exe
+C:\Users\pc\source\repos\DES\WinFormsApp1\bin\Debug\net7.0-windows\DES.deps.json
+C:\Users\pc\source\repos\DES\WinFormsApp1\bin\Debug\net7.0-windows\DES.runtimeconfig.json
+C:\Users\pc\source\repos\DES\WinFormsApp1\bin\Debug\net7.0-windows\DES.dll
+C:\Users\pc\source\repos\DES\WinFormsApp1\bin\Debug\net7.0-windows\DES.pdb
+C:\Users\pc\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.Form1.resources
+C:\Users\pc\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfo.cs
+C:\Users\pc\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.dll
+C:\Users\pc\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\refint\DES.dll
+C:\Users\pc\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.pdb
+C:\Users\pc\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.genruntimeconfig.cache
+C:\Users\pc\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\ref\DES.dll
+C:\Users\dell\source\repos\DES\WinFormsApp1\bin\Debug\net7.0-windows\DES.exe
+C:\Users\dell\source\repos\DES\WinFormsApp1\bin\Debug\net7.0-windows\DES.deps.json
+C:\Users\dell\source\repos\DES\WinFormsApp1\bin\Debug\net7.0-windows\DES.runtimeconfig.json
+C:\Users\dell\source\repos\DES\WinFormsApp1\bin\Debug\net7.0-windows\DES.dll
+C:\Users\dell\source\repos\DES\WinFormsApp1\bin\Debug\net7.0-windows\DES.pdb
+C:\Users\dell\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.Form1.resources
+C:\Users\dell\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfo.cs
+C:\Users\dell\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.dll
+C:\Users\dell\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\refint\DES.dll
+C:\Users\dell\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.pdb
+C:\Users\dell\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.genruntimeconfig.cache
+C:\Users\dell\source\repos\DES\WinFormsApp1\obj\Debug\net7.0-windows\ref\DES.dll
+D:\DES\DES\WinFormsApp1\bin\Debug\net7.0-windows\DES.exe
+D:\DES\DES\WinFormsApp1\bin\Debug\net7.0-windows\DES.deps.json
+D:\DES\DES\WinFormsApp1\bin\Debug\net7.0-windows\DES.runtimeconfig.json
+D:\DES\DES\WinFormsApp1\bin\Debug\net7.0-windows\DES.dll
+D:\DES\DES\WinFormsApp1\bin\Debug\net7.0-windows\DES.pdb
+D:\DES\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.AssemblyReference.cache
+D:\DES\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.Form1.resources
+D:\DES\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.GenerateResource.cache
+D:\DES\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.GeneratedMSBuildEditorConfig.editorconfig
+D:\DES\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfoInputs.cache
+D:\DES\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfo.cs
+D:\DES\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.CoreCompileInputs.cache
+D:\DES\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.dll
+D:\DES\DES\WinFormsApp1\obj\Debug\net7.0-windows\refint\DES.dll
+D:\DES\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.pdb
+D:\DES\DES\WinFormsApp1\obj\Debug\net7.0-windows\DES.genruntimeconfig.cache
+D:\DES\DES\WinFormsApp1\obj\Debug\net7.0-windows\ref\DES.dll
+I:\DES - Copy\WinFormsApp1\bin\Debug\net7.0-windows\DES.exe
+I:\DES - Copy\WinFormsApp1\bin\Debug\net7.0-windows\DES.deps.json
+I:\DES - Copy\WinFormsApp1\bin\Debug\net7.0-windows\DES.runtimeconfig.json
+I:\DES - Copy\WinFormsApp1\bin\Debug\net7.0-windows\DES.dll
+I:\DES - Copy\WinFormsApp1\bin\Debug\net7.0-windows\DES.pdb
+I:\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.AssemblyReference.cache
+I:\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.Form1.resources
+I:\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.GenerateResource.cache
+I:\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.GeneratedMSBuildEditorConfig.editorconfig
+I:\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfoInputs.cache
+I:\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfo.cs
+I:\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.CoreCompileInputs.cache
+I:\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.dll
+I:\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\refint\DES.dll
+I:\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.pdb
+I:\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.genruntimeconfig.cache
+I:\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\ref\DES.dll
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\bin\Debug\net7.0-windows\DES.exe
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\bin\Debug\net7.0-windows\DES.deps.json
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\bin\Debug\net7.0-windows\DES.runtimeconfig.json
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\bin\Debug\net7.0-windows\DES.dll
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\bin\Debug\net7.0-windows\DES.pdb
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.Form1.resources
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfo.cs
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.dll
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\refint\DES.dll
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.pdb
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.genruntimeconfig.cache
+C:\Users\pc\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\ref\DES.dll
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\bin\Debug\net7.0-windows\DES.exe
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\bin\Debug\net7.0-windows\DES.deps.json
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\bin\Debug\net7.0-windows\DES.runtimeconfig.json
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\bin\Debug\net7.0-windows\DES.dll
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\bin\Debug\net7.0-windows\DES.pdb
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.Form1.resources
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfo.cs
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.dll
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\refint\DES.dll
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.pdb
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\DES.genruntimeconfig.cache
+C:\Users\dell\source\repos\DES - Copy\WinFormsApp1\obj\Debug\net7.0-windows\ref\DES.dll
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\bin\Debug\net7.0-windows\DES.exe
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\bin\Debug\net7.0-windows\DES.deps.json
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\bin\Debug\net7.0-windows\DES.runtimeconfig.json
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\bin\Debug\net7.0-windows\DES.dll
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\bin\Debug\net7.0-windows\DES.pdb
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.Form1.resources
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfo.cs
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.dll
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\refint\DES.dll
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.pdb
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.genruntimeconfig.cache
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\ref\DES.dll
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.ResolveComReference.cache
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\bin\Debug\net7.0-windows\Aprismatic.BigIntegerExt.dll
+C:\Users\dell\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.CopyComplete
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\bin\Debug\net7.0-windows\DES.exe
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\bin\Debug\net7.0-windows\DES.deps.json
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\bin\Debug\net7.0-windows\DES.runtimeconfig.json
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\bin\Debug\net7.0-windows\DES.dll
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\bin\Debug\net7.0-windows\DES.pdb
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\bin\Debug\net7.0-windows\Aprismatic.BigIntegerExt.dll
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.ResolveComReference.cache
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.Form1.resources
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.AssemblyInfo.cs
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.csproj.CopyComplete
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.dll
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\refint\DES.dll
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.pdb
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\DES.genruntimeconfig.cache
+C:\Users\pc\source\repos\DES - Main\WinFormsApp1\obj\Debug\net7.0-windows\ref\DES.dll
